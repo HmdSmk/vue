@@ -1,0 +1,6 @@
+@sample_vue_app_server_HostAddress = http://localhost:5268
+
+GET {{sample_vue_app_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
